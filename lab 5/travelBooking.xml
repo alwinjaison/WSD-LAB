@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<travelBooking xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="travelBooking.xsd">
+    <booking>
+        <traveler>
+            <name>John Doe</name>
+            <contact>john.doe@example.com</contact>
+        </traveler>
+        <flight>
+            <airline>Airways</airline>
+            <date>2024-08-11</date>
+            <route>
+                <from>New York</from>
+                <to>Los Angeles</to>
+            </route>
+        </flight>
+        <price>300</price>
+        <bookingID>AB1234</bookingID>
+    </booking>
+
+    <booking>
+        <traveler>
+            <name>Jane Smith</name>
+            <contact>jane.smith@example.com</contact>
+        </traveler>
+        <flight>
+            <airline>Sky High</airline>
+            <date>2024-08-12</date>
+            <route>
+                <from>Chicago</from>
+                <to>Houston</to>
+            </route>
+        </flight>
+        <price>250</price>
+        <bookingID>CD5678</bookingID>
+    </booking>
+
+    <booking>
+        <traveler>
+            <name>Emily Johnson</name>
+            <contact>emily.johnson@example.com</contact>
+        </traveler>
+        <flight>
+            <airline>Global Air</airline>
+            <date>2024-08-13</date>
+            <route>
+                <from>Los Angeles</from>
+                <to>Miami</to>
+            </route>
+        </flight>
+        <price>400</price>
+        <bookingID>EF9101</bookingID>
+    </booking>
+
+    <booking>
+        <traveler>
+            <name>Michael Brown</name>
+            <contact>michael.brown@example.com</contact>
+        </traveler>
+        <flight>
+            <airline>Express Jets</airline>
+            <date>2024-08-14</date>
+            <route>
+                <from>Houston</from>
+                <to>San Francisco</to>
+            </route>
+        </flight>
+        <price>350</price>
+        <bookingID>GH1213</bookingID>
+    </booking>
+
+    <booking>
+        <traveler>
+            <name>Sarah Wilson</name>
+            <contact>sarah.wilson@example.com</contact>
+        </traveler>
+        <flight>
+            <airline>Pacific Airlines</airline>
+            <date>2024-08-15</date>
+            <route>
+                <from>Miami</from>
+                <to>Atlanta</to>
+            </route>
+        </flight>
+        <price>280</price>
+        <bookingID>IJ1415</bookingID>
+    </booking>
+
+    <booking>
+        <traveler>
+            <name>David Miller</name>
+            <contact>david.miller@example.com</contact>
+        </traveler>
+        <flight>
+            <airline>Royal Flights</airline>
+            <date>2024-08-16</date>
+            <route>
+                <from>Atlanta</from>
+                <to>Seattle</to>
+            </route>
+        </flight>
+        <price>420</price>
+        <bookingID>KL1617</bookingID>
+    </booking>
+</travelBooking>
