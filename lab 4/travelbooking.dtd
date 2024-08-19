@@ -11,12 +11,3 @@
 <!ELEMENT date (#PCDATA)>
 <!ELEMENT from (#PCDATA)>
 <!ELEMENT to (#PCDATA)>
-
-<!ENTITY destination1 "New York">
-<!ENTITY destination2 "Los Angeles">
-<!ENTITY destination3 "Chicago">
-<!ENTITY destination4 "Houston">
-<!ENTITY airline "Airways">
-<!ENTITY date "2024-08-11">
-<!ENTITY travelerName "John Doe">
-<!ENTITY travelerContact "john.doe@example.com">
